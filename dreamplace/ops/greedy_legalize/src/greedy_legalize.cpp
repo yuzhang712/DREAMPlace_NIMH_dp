@@ -5,6 +5,7 @@
  */
 #include "greedy_legalize/src/function_cpu.h"
 
+
 DREAMPLACE_BEGIN_NAMESPACE
 
 /// @brief legalize layout with greedy legalization.

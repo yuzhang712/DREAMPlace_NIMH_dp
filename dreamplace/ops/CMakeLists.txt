@@ -18,6 +18,8 @@ add_subdirectory(legality_check)
 add_subdirectory(macro_legalize)
 add_subdirectory(greedy_legalize)
 add_subdirectory(abacus_legalize)
+# NIMH dp
+# add_subdirectory(nimh_dp)
 # detailed placement operators
 add_subdirectory(global_swap)
 add_subdirectory(independent_set_matching)
